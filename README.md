@@ -1,4 +1,4 @@
-#Website Toko Online Jam Seiko
+# Website Toko Online Jam Seiko
 Merupakan website toko online sederhana yang menjual jam merek Seiko, dengan integrasi API Raja Ongkir untuk menghitung biaya pengiriman. Website ini memiliki dua peran pengguna utama, yaitu Pembeli dan Admin, masing-masing dengan akses ke berbagai fitur. Berikut adalah penjelasan mengenai fitur-fitur yang ada dalam sistem ini:
 
 ## Fitur dalam Sistem
