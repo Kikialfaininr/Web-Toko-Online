@@ -18,3 +18,6 @@ Merupakan website toko online sederhana yang menjual jam merek Seiko, dengan int
 3. Data Produk (CRUD)
 4. Data Pesanan
 5. Data Ongkir
+
+## Penjelasan Fitur
+Youtube: https://www.youtube.com/watch?v=2zZCUSnzVxk
